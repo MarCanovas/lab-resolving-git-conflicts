@@ -21,3 +21,4 @@ I really don't have many expectations of what I would like to do in the future, 
 What I really want for myself is to find a work environment where I can learn the most from the people that surround me and hopefully I can do the same thing for them. I'm really passionate about working with data so I have no preferences set on which industry I'd like to join. 
 
 As a further goal, I'd really like to be part of a team where we can create, research, or improve something that leads to an impact in society, and I thing Data Analysis really is the right path of achieving that. 
+
