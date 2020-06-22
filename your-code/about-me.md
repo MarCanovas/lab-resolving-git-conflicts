@@ -1,7 +1,23 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus neque. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus lacus risus, sodales vitae viverra quis, maximus ac ipsum. Sed consequat viverra mattis. Curabitur iaculis varius mollis.
+# Who am I
 
-Ut porttitor iaculis tellus bibendum euismod. Morbi porta, ante nec tempus porta, felis mi faucibus lacus, sed tristique purus nunc sed est. Aenean pulvinar urna ut lacus interdum aliquam. Pellentesque sit amet magna accumsan, sagittis metus a, volutpat velit. Mauris vitae ex vehicula, posuere nisi sed, sagittis nunc. Ut scelerisque, mi non tristique tristique, mi enim luctus nunc, eu mattis sem quam auctor nunc. Donec lobortis tellus eget blandit ultricies. Vivamus euismod metus eget leo blandit, at malesuada magna efficitur. Praesent sodales faucibus mi, ullamcorper ultrices orci. Vivamus maximus malesuada massa, nec placerat leo feugiat vel. Nam vitae eleifend enim. Nullam interdum ipsum velit, vitae faucibus lectus blandit euismod.
+Hi! My name is Mar and I'm from a little town from Murcia. 
 
-Suspendisse ut malesuada ex. Nulla ultricies nisl et nisi rhoncus sollicitudin. Vestibulum maximus iaculis ligula, nec commodo nunc ullamcorper nec. Duis quis condimentum sapien. Cras vestibulum interdum felis eu auctor. Quisque semper, magna at dapibus faucibus, felis risus semper ligula, id aliquam lectus ligula vel nisi. In hac habitasse platea dictumst. Donec arcu sapien, suscipit ac dictum et, imperdiet id tortor. Maecenas ornare sodales interdum. Mauris dictum felis eu eros vestibulum cursus. Phasellus accumsan, turpis ut malesuada sollicitudin, augue leo venenatis ante, vel convallis tellus diam sit amet lacus. Aenean eu mauris eros. Praesent ante lacus, gravida sit amet tellus nec, laoreet ultrices lacus. Integer commodo semper vestibulum. Fusce felis massa, consectetur facilisis rutrum nec, pulvinar et nisi.
+I've done many things during my student years to financially support myself, so I've had the opportunity of working in many different areas as a consultant, developer, and researcher, both in private companies and public institutions.
 
-Morbi fermentum ultricies tortor, vehicula ultrices eros elementum a. Duis ornare aliquam facilisis. Proin aliquam tincidunt odio vitae dignissim. Sed malesuada lacinia massa, nec blandit urna auctor elementum. Duis auctor non tortor in consequat. Mauris id vestibulum risus. In eget erat sed lacus efficitur viverra sed eu est. Aliquam interdum consequat molestie. Aliquam metus nisi, blandit non semper ut, blandit vel leo. Cras dictum turpis erat, sed iaculis ligula facilisis dapibus. Aliquam posuere dignissim fermentum. Praesent at neque sit amet lectus ornare iaculis. Curabitur id urna quis lorem varius ultrices eu sit amet sapien. Curabitur maximus volutpat suscipit. Proin imperdiet elementum lacus a eleifend. Sed tempor lacus posuere diam vehicula iaculis.
+My studies range from Advance Databases Administration to AI applied to medicine and even Natural Language Processing, so I feel lucky to have had the chance of working with many different types of data, such as audio, image, video, and text.
+
+
+# Why am I here
+
+Despite all of the kinds of data I've worked with, I feel that I've never been properly taught how to take the most advantage of numeric data and statistics, which may sound silly, but even though it might be very similar, I feel like I lack that knowledge. 
+
+Some months ago I was lucky enough to be the winner of a full scholarship in IronHack by Vinted to attend this program, which I have never dreamed of happening to me, so here I am! On the other hand, due to the current situation, I was declined a grant I needed in order to be able to move to Barcelona, so when I said "here I am" I just mean it remotely.
+
+
+# What will I do after the bootcamp?
+
+I really don't have many expectations of what I would like to do in the future, but I hope to be able to afford the moving to Barcelona and give myself a try in that beautiful city. 
+
+What I really want for myself is to find a work environment where I can learn the most from the people that surround me and hopefully I can do the same thing for them. I'm really passionate about working with data so I have no preferences set on which industry I'd like to join. 
+
+As a further goal, I'd really like to be part of a team where we can create, research, or improve something that leads to an impact in society, and I thing Data Analysis really is the right path of achieving that. 
